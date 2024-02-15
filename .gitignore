@@ -1,0 +1,10 @@
+# Lab-specific
+*.zip
+vm/
+
+# Python
+.venv
+__pycache__
+
+# Misc
+.DS_Store
